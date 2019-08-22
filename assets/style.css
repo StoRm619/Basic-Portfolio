@@ -1,0 +1,23 @@
+header {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+button {
+    position: fixed;
+    top: 20px right: 10px;
+    float: left;
+}
+
+h1 {
+    padding: 20px;
+    background-color: #4aaaa5;
+    width: 25%;
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: 140px;
+    float: left;
+}
