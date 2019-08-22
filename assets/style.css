@@ -3,12 +3,6 @@ header {
     width: 100%;
 }
 
-button {
-    position: fixed;
-    top: 20px right: 10px;
-    float: left;
-}
-
 h1 {
     padding: 20px;
     background-color: #4aaaa5;
