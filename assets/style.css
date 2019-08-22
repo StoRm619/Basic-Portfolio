@@ -1,17 +1,50 @@
 header {
-    background-color: #ffffff;
+    overflow: hidden;
+    float: left;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
     width: 100%;
+    /* Full width */
 }
+
+
+/* Links inside the navbar */
 
 h1 {
     padding: 20px;
-    background-color: #4aaaa5;
+    margin-right: 250px;
+    background-color: #18dad0;
     width: 25%;
     color: white;
+    float: left;
+}
+
+.navbar a {
+    margin: 0 auto;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    float: left;
+}
+
+h2 {
+    position: relative;
+    top: 50px;
 }
 
 img {
+    position: relative;
+    top: 50px;
     width: 200px;
     height: 140px;
     float: left;
+}
+
+p {
+    position: relative;
+    top: 10px;
 }
